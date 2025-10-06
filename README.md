@@ -1,21 +1,30 @@
 # Hi, I'm Amar Mahaseth 👋
 
-I'm a passionate **Frontend Developer** interested in building dynamic, user-friendly web applications. With a strong foundation in **HTML**, **CSS**, and **JavaScript**, I'm constantly exploring front-end development trends and technologies.
+I’m a passionate **UI/UX Designer and Frontend Developer** who loves creating clean, intuitive, and user-friendly digital experiences. With a background in **Computer Systems Engineering (IT)**, I enjoy blending design thinking with technical skills to build products that are both functional and visually engaging.
 
 ### 🛠️ Skills and Expertise:
 
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **Data Visualization**: Power BI
-- **Cloud Computing**: Azure, AWS
-- **Networking**: Networking protocols, configurations, CCNA
-- **Version Control**: Git, GitHub
+* **Design & Prototyping**: Figma, Canva
+* **Frontend Development**: HTML, CSS, JavaScript, React, Tailwind CSS
+* **UI/UX Principles**: Usability, accessibility, mobile-first design
+* **Other Tools**: WordPress, Git, SEO basics
+* **Cloud & Networking**: Azure, AWS, Networking protocols (CCNA knowledge)
 
-### 🚀 Currently Learning:
-- Advanced **JavaScript** concepts
-- **React** and its ecosystem
-- More in-depth **Cloud Computing** services
+### 🚀 Currently Exploring:
+
+* Advanced **JavaScript** concepts
+* **React ecosystem** and modern frontend workflows
+* Designing impactful projects that connect technology with **sustainability and social good**
+
+### 🌱 Projects:
+
+* **Nest-AI** – Smart planning assistant with AI-powered tools
+* **Swadisht** – Food ordering app design for local and global users
+* **MealMate** – Meal planning & grocery management app prototype
 
 ### 📫 How to Reach Me:
-- **Email**: amarmahseth09@gmail.com
 
-Let's connect and collaborate on exciting projects!
+* **Email**: [amarmahaseth09@gmail.com](mailto:amarmahaseth09@gmail.com)
+* **LinkedIn**: [www.linkedin.com/in/amar-mahaseth-49479b1b8](http://www.linkedin.com/in/amar-mahaseth-49479b1b8)
+
+✨ Always open to collaborating on meaningful projects that combine **design, technology, and positive impact**.
