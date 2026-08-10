@@ -1,30 +1,52 @@
-# Hi, I'm Amar Mahaseth 👋
+# Hi there, I'm Amar Mahaseth 👋
 
-I’m a passionate **UI/UX Designer and Frontend Developer** who loves creating clean, intuitive, and user-friendly digital experiences. With a background in **Computer Systems Engineering (IT)**, I enjoy blending design thinking with technical skills to build products that are both functional and visually engaging.
+**Full-Stack Developer | Next.js • Payload CMS • PostgreSQL • React**
 
-### 🛠️ Skills and Expertise:
+I'm a freelance full-stack developer passionate about building fast, scalable, and user-friendly web applications. I enjoy turning ideas into modern digital products with clean code, responsive design, and reliable backend architecture.
 
-* **Design & Prototyping**: Figma, Canva
-* **Frontend Development**: HTML, CSS, JavaScript, React, Tailwind CSS
-* **UI/UX Principles**: Usability, accessibility, mobile-first design
-* **Other Tools**: WordPress, Git, SEO basics
-* **Cloud & Networking**: Azure, AWS, Networking protocols (CCNA knowledge)
+## 🚀 About Me
 
-### 🚀 Currently Exploring:
+* 💼 Freelance Full-Stack Developer
+* 🌐 Building modern web applications with Next.js & React
+* 🗄️ Developing scalable backends with Payload CMS & PostgreSQL
+* ☁️ Interested in Cloud, DevOps, and modern web architecture
+* 📚 Always learning new technologies and best practices
 
-* Advanced **JavaScript** concepts
-* **React ecosystem** and modern frontend workflows
-* Designing impactful projects that connect technology with **sustainability and social good**
+## 🛠️ Tech Stack
 
-### 🌱 Projects:
+**Frontend**
+Next.js • React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-* **Nest-AI** – Smart planning assistant with AI-powered tools
-* **Swadisht** – Food ordering app design for local and global users
-* **MealMate** – Meal planning & grocery management app prototype
+**Backend**
+Node.js • REST APIs • Payload CMS • PHP
 
-### 📫 How to Reach Me:
+**Database**
+PostgreSQL • Neon Database • MySQL
 
-* **Email**: [amarmahaseth09@gmail.com](mailto:amarmahaseth09@gmail.com)
-* **LinkedIn**: [www.linkedin.com/in/amar-mahaseth-49479b1b8](http://www.linkedin.com/in/amar-mahaseth-49479b1b8)
+**Cloud & Tools**
+Vercel • Azure • Cloudflare • Git • GitHub • VS Code • Figma
 
-✨ Always open to collaborating on meaningful projects that combine **design, technology, and positive impact**.
+## 💡 What I Build
+
+* Full-stack web applications
+* Responsive business websites
+* Custom CMS solutions
+* API integrations
+* SEO-optimized web experiences
+* Performance-focused user interfaces
+
+## 🌱 Currently Learning
+
+* Advanced Next.js Architecture
+* Docker & CI/CD
+* AWS & Azure
+* DevOps Practices
+
+## 📫 Let's Connect
+
+* **Email:** [amarmahaseth09@gmail.com](mailto:amarmahaseth09@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/amar-mahaseth-49479b1b8](http://www.linkedin.com/in/amar-mahaseth-49479b1b8)
+
+---
+
+> *"Building scalable web experiences with clean code and modern technologies."*
